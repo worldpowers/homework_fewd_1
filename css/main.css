@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+}
+
+.pb-20{
+    padding-bottom: 20px;
+}
+.container{
+    
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.flex{
+    display:flex;
+}
+.header{
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+  
+ .header nav a{
+    color: white;
+    padding: 8px;
+    background-color:black;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 20px;
+    
+    
+  }
+  h1{
+      color: yellow;
+      background-color:black;
+      margin-top: -3px;
+      margin-left: 20px;
+  }
+
+  
+.main__content1{
+    background-image: url("https://via.placeholder.com/150/000000/FFFFFF/");
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__content2{
+    background-image: url("https://via.placeholder.com/150/FFFF00/000000");
+    height: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__content3{
+    background-image: url("http://placehold.it/600x600");
+    height: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h2{
+    padding: 20px; 
+    text-align: center;
+    margin-top: 0px;
+}
+
+.banner{
+    background-image: url("../img/img.png");
+    background-size: cover;
+    height: 800px;
+    
+    
+}
+
+.banner h3{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.banner p{
+    text-align:left;
+    margin : 0px 30px;
+}
+.main__content4{
+   
+  background-color: white;
+  padding: 1.5rem 2rem;
+  align-items: center;
+  column-gap: .5rem;
+  position: absolute;
+  right: 0;
+  bottom: 1rem;
+  width: 370px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  
+  
+}
+
+.button{
+    display: inline-block;
+    background-color: yellow;
+    color: black;
+    padding: 1rem 2rem;
+    transition: .3s;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 235px;
+    text-align: center;
+  }
+
+
+
+
+.walk_through .item{
+    margin-top: 30px;
+    text-align: center;
+    margin-right:10px;
+    box-shadow: rgb(209 209 213) 0px 5px 15px;
+    padding: 40px;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+
+.button1{
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    background-color: grey;
+    padding: 1rem 2rem;
+    margin-top: 5px;
+    
+}
+
+.walk_through .item:last-child{
+    margin-right:0;
+}
+
+
+
+h4.container{
+    margin-top: 50px;
+    text-align: center;
+    width:30%;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+footer{
+    width: 100%;
+    font-size: 14px;
+    color: #fff;
+    float: left;
+    clear: both;
+    padding: 26px 0px;
+    text-align: left;
+    line-height: 23px;
+    background-color: #272727;
+}
+
+  
